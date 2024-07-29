@@ -123,4 +123,4 @@ Dataset contains valuable information that could help us optimize our operations
 
 ## Contact me!
 
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Khapre]
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Shubham Chavan]
